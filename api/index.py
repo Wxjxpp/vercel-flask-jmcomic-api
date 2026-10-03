@@ -253,7 +253,7 @@ def get_search(value, client_page=1):
 
 @app.get("/album/<int:item_id>")
 @app.get("/album/<int:item_id>/")
-def get_album_info(item_id: int, impl="html", url=["18comic.vip"]):
+def get_album_info(item_id: int, impl="html", url=["comic18j-ada.space"]):
     try:
         a = JmOption.construct(
             {
@@ -266,8 +266,8 @@ def get_album_info(item_id: int, impl="html", url=["18comic.vip"]):
                         {
                             "plugin": "login",
                             "kwargs": {
-                                "username": "test19195456546",
-                                "password": "test19195456546",
+                                "username": "114514917813",
+                                "password": "l1234567",
                             },
                         }
                     ]
