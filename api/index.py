@@ -266,7 +266,7 @@ def get_album_info(item_id: int, impl="html", url=["comic18j-ada.space"]):
                         {
                             "plugin": "login",
                             "kwargs": {
-                                "username": "114514917813",
+                                "username": "114514527789113",
                                 "password": "l1234567",
                             },
                         }
